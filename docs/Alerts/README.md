@@ -140,7 +140,7 @@ check the status of velero backups whether completed or not
 
 Check the KKP version, if it is  < 2.18 env we can  delete the partial failed backups
 
-`velero backup list`
+`velero backup get`
 
 `velero backup delete xxxx`
 
